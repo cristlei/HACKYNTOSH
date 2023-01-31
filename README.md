@@ -21,3 +21,6 @@ Board Serial: AAAAAAAAAAAAA
 SmUUID:       AAAAAAAAA-AAAAAA-AAAAAA-AAAAAA
 Apple ROM:   AAAAAAAAAAAAAAA
 
+No caso se voce baixar apenas o config.plist faca conforme explico abaixo.
+Para o Arquivo baixado para o Catalina, Mude o nome de  config2.plist para config.plist e coloque na pasta EFI/OC
+

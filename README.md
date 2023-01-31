@@ -8,3 +8,16 @@ PC Audio: Realtek ALC897 @intel Audio Controle (AppleALC.kext).
 SSD NVME: XPG GAMMIX S41 PCI-E 3.0 X4  ( NVMeFix.Kext ) .
 USB intel Tiger Point PCH-USB 3.2 Geb 2x1
 Bios: F8 ( American Megatrends International,LLC
+
+E preciso modificar os seriais no arquivo config.plist, que se encontra dentro da pasta.
+EFI/OC abra com ProperTree , crie o serial com GenSMBIOS.
+Opcao 3 , depois nome do MAC.
+Exemplo: iMac20,1 para i3,i5 ate 8 Cores
+E iMac20,2 para i9 10 Cores em diante.
+
+Type:         iMac00,0
+Serial:       AAAAAAAAAAA
+Board Serial: AAAAAAAAAAAAA
+SmUUID:       AAAAAAAAA-AAAAAA-AAAAAA-AAAAAA
+Apple ROM:   AAAAAAAAAAAAAAA
+

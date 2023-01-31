@@ -499,7 +499,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>j137</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -617,11 +617,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>AAAAAA</string>
+			<string>AAAAA</string>
 			<key>SystemSerialNumber</key>
-			<string>AAAAAAAAAAAA</string>
+			<string>AAAAAAAAAAAAA</string>
 			<key>SystemUUID</key>
-			<string>AAAAA-AAA-AAAAAA-AAAAAAA-AAAAA-AA</string>
+			<string>AAAAAAAAAA-AAAAA-AAAAA-AAAAA-AAAA</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
